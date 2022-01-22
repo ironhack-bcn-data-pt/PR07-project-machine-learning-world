@@ -1,6 +1,6 @@
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
 
-# Lab | Machine Learning & AI World
+# Project | Machine Learning & AI World
 Machine Learning now is one of the trending topics if you talk aboyt technology. Everyday a lot of material about this topic arrives to the media, not only news about new discovers but also a lot of tutorials and articles about people working on this.
 
 The objectives of this lab are:
