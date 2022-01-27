@@ -45,5 +45,6 @@ Let's start! You will chose a topic and a day, previously assigned during the 3r
 18. AI recommendation systems
 19. AI cybercrime detection
 20. AI in Crypto
+
 More... [AI 50: America’s Most Promising Artificial Intelligence Companies](https://www.forbes.com/sites/jilliandonfro/2019/09/17/ai-50-americas-most-promising-artificial-intelligence-companies/)
 
