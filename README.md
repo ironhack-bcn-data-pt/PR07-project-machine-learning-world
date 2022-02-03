@@ -41,12 +41,12 @@ Let's start! You will chose a topic and a day, previously assigned during the 3r
 14. Traffic management AI
 15. Captchas
 16. FaceApp, Face Swapp
-17. Deep Learning in Medicine (Alberto) [Inteligencia Artificial y la lucha contra la COVID-19](https://iomed.es/2022/01/20/inteligencia-artificial-y-la-lucha-contra-la-covid-19/)
+**17. Deep Learning in Medicine (Alberto) [Inteligencia Artificial y la lucha contra la COVID-19](https://iomed.es/2022/01/20/inteligencia-artificial-y-la-lucha-contra-la-covid-19/)**
 18. AI recommendation systems
 19. AI cybercrime detection
 20. AI in Crypto
-21. AI in tax policy (Carlos) [An AI can simulate an economy millions of times to create fairer tax policy](https://www.technologyreview.com/2020/05/05/1001142/ai-reinforcement-learning-simulate-economy-fairer-tax-policy-income-inequality-recession-pandemic/)
-22. 5 weird uses of AI (Paula)
+**21. AI in tax policy (Carlos) [An AI can simulate an economy millions of times to create fairer tax policy](https://www.technologyreview.com/2020/05/05/1001142/ai-reinforcement-learning-simulate-economy-fairer-tax-policy-income-inequality-recession-pandemic/)**
+**22. 5 weird uses of AI (Paula)**
 
 More... [AI 50: America’s Most Promising Artificial Intelligence Companies](https://www.forbes.com/sites/jilliandonfro/2019/09/17/ai-50-americas-most-promising-artificial-intelligence-companies/)
 
