@@ -26,7 +26,8 @@ So you need to look for more information. Maybe the paper the scientists publish
 Let's start! You will chose a topic and a day, previously assigned during the 3rd module, you will have 5 minutes to share your research with your colleagues and then 5 minutes to discuss a little bit. Feel free to present your conclusions in the way you prefer.
 
 ## Topics 
- **1. AlphaGO, AlphaZero, MuZero, AlphaStar... (Gerard)
+ **1. AlphaGO, AlphaZero, MuZero, AlphaStar... (Gerard)**
+ 
  2. Self driving cars
  3. GPT-3
  4. Face recognition
