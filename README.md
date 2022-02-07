@@ -52,7 +52,7 @@ Let's start! You will chose a topic and a day, previously assigned during the 3r
 
 **22. 5 weird uses of AI (Paula)**
 
-**23.Predictors of tooth loss (Sergio) [Predictors of tooth loss: A machine learning approach](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0252873)
+**23.Predictors of tooth loss (Sergio) [Predictors of tooth loss: A machine learning approach](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0252873)**
 
-More... [AI 50: America’s Most Promising Artificial Intelligence Companies](https://www.forbes.com/sites/jilliandonfro/2019/09/17/ai-50-americas-most-promising-artificial-intelligence-companies/)**
+More... [AI 50: America’s Most Promising Artificial Intelligence Companies](https://www.forbes.com/sites/jilliandonfro/2019/09/17/ai-50-americas-most-promising-artificial-intelligence-companies/)
 
