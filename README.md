@@ -39,8 +39,8 @@ Let's start! You will chose a topic and a day, previously assigned during the 3r
 10. AI photography
 11. Retail AI
 13. LAPD crime algorithm
-
 14. Traffic management AI
+
 
 **15. Captchas (Natália) ['Lying' robot beats website security system by ticking the 'I am not a robot' box before 'smiling' at the camera](https://www.dailymail.co.uk/news/article-6885253/Robot-bypasses-Im-not-robot-CAPTCHA-check.html/)**
 
