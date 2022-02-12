@@ -40,7 +40,7 @@ Let's start! You will chose a topic and a day, previously assigned during the 3r
 11. Retail AI
 13. LAPD crime algorithm
 14. Traffic management AI
-15. Captchas
+15. Captchas - Natália
 16. FaceApp, Face Swapp
 **17. Deep Learning in Medicine (Alberto) [Inteligencia Artificial y la lucha contra la COVID-19](https://iomed.es/2022/01/20/inteligencia-artificial-y-la-lucha-contra-la-covid-19/)**
 
